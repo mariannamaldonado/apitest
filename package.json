@@ -8,8 +8,10 @@
     "test:unit": "vue-cli-service test:unit"
   },
   "dependencies": {
+    "leaflet": "^1.7.1",
     "vue": "^3.0.0",
     "vue-router": "^4.0.0-0",
+    "vue2-leaflet": "^2.6.0",
     "vuex": "^4.0.0-0"
   },
   "devDependencies": {
