@@ -16,7 +16,12 @@
         </li>
          <li class="nav-item">
            <router-link to="/map" class="nav-link">Map</router-link> |
-    
+        </li>
+         <li class="nav-item">
+           <router-link to="/carrito" class="nav-link">Carrito</router-link> |
+        </li>
+        <li class="nav-item">
+           <router-link to="/pruebas" class="nav-link">Pruebas</router-link> |
         </li>
       </ul>
      

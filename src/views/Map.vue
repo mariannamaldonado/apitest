@@ -30,11 +30,11 @@ setup(){
     return{
 
     }
-}
+  }
 }
 </script>
 
 <style>
-#mapid { height: 180px; }
+#mapid { height: 180px }
 
 </style>
