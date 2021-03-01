@@ -35,6 +35,6 @@ setup(){
 </script>
 
 <style>
-#mapid { height: 180px }
+#mapid { height: 500px }
 
 </style>

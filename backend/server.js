@@ -4,10 +4,10 @@ const rtMain= require('./routers/rtMain')
 const db = require('./conexion')
 
 //base de datos mongodb
-db.on('error', console.error.bind(console, "Error de conexion mongo"))
-db.once('open',()=>console.log("conexion mongo OK!!"))
+// db.on('error', console.error.bind(console, "Error de conexion mongo"))
+// db.once('open',()=>console.log("conexion mongo OK!!"))
 
-//midelwares
+//middlewares
 app.use(express.json())
 
 //enrutadores
